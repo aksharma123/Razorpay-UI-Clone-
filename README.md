@@ -1,0 +1,1 @@
+Razorpay UI clone built using Tailwind CSS framework for responsive and efficient design. This project replicates Razorpay’s clean, modern interface to enhance my front-end development skills and design understanding.
